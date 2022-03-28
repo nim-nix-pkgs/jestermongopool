@@ -11,7 +11,6 @@
   inputs.src-jestermongopool-master.ref   = "refs/heads/master";
   inputs.src-jestermongopool-master.owner = "JohnAD";
   inputs.src-jestermongopool-master.repo  = "jestermongopool";
-  inputs.src-jestermongopool-master.dir   = "";
   inputs.src-jestermongopool-master.type  = "github";
   
   inputs."jesterwithplugins".owner = "nim-nix-pkgs";
