@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/JohnAD/jestermongopool",
   "refs": [
-    "fatal: unable to access 'https://github.com/JohnAD/jestermongopool/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/JohnAD/jestermongopool/': Failed to connect to github.com port 443 after 128714 ms: Connection timed out",
     ""
   ],
   "heads": []
